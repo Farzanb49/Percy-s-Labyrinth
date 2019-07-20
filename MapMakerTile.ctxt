@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MapMakerTile
+comment1.params=x\ y
+comment1.target=MapMakerTile(int,\ int)
+comment2.params=e
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=StartingFile
+comment1.params=
+comment1.target=StartingFile()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment4.params=audioFileName
+comment4.target=void\ playSound(java.lang.String)
+comment5.params=audioFileName\ playOrNot
+comment5.target=void\ playSoundLoop(java.lang.String,\ boolean)
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MazeMapMaker
+comment1.params=
+comment1.target=MazeMapMaker()
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ getMapList()
+comment4.params=
+comment4.target=void\ getLevelChoice()
+comment5.params=
+comment5.target=void\ saveMap()
+comment6.params=
+comment6.target=void\ loadMap()
+numComments=7

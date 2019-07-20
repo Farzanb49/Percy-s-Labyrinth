@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=x\ y
+comment1.target=Tile(int,\ int)
+comment2.params=isWall
+comment2.target=void\ setWall(boolean)
+numComments=3

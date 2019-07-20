@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ moveLeft()
+comment3.params=
+comment3.target=void\ moveRight()
+comment4.params=
+comment4.target=void\ moveUp()
+comment5.params=
+comment5.target=void\ moveDown()
+numComments=6
